@@ -40,16 +40,4 @@ This application consists of the following key classes/entities:
 5. **Bank**:
    - Handles the main logic for user registration, login, account management, and transactions. It stores all users and their corresponding accounts.
 
-### How to Run the Application
 
-1. Clone the repository or download the Java files.
-2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse) or a text editor.
-3. Compile and run the `Main.java` class to start the application.
-
-### Running the Application in Terminal (if not using an IDE):
-
-1. Open a terminal/command prompt.
-2. Navigate to the folder containing your Java files.
-3. Compile the code:
-   ```bash
-   javac Main.java User.java Account.java Transaction.java Bank.java
